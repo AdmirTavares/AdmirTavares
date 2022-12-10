@@ -1,0 +1,26 @@
+- 👋 Hi, I’m @AdmirTavares Developer 💻. Computer science course finalist ⚙️
+- 👀 I'm fascinated by games, music, movies and especially technology!
+
+
+<!---
+AdmirTavares/AdmirTavares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![10186372](https://user-images.githubusercontent.com/75563379/206854986-c77cb557-fe57-4abd-91a9-5a3f62e6e480.jpg)
+
+
+
+📖 Actually Skills / Working With / Mastering
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/75563379/206853935-44d8437f-ffe8-4ac3-93db-618316059020.svg) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030303046463f7374796c653d666f722d7468652d6261646765266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/75563379/206853940-bd7128d2-d8b4-4a15-9a6f-aa41dcf8091f.svg) 
+ ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/75563379/206853942-e7e9105d-b906-46aa-a297-469a960c5a1b.svg) 
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/75563379/206853943-dc9b507f-4b97-4c30-952c-115333f4d5cf.svg)
+
+
+
+![Why_Laravel](https://user-images.githubusercontent.com/75563379/206853118-b26909ad-d39d-489d-b199-3cf6c2973e71.jpeg)
+
+
+
+
+
